@@ -30,4 +30,6 @@ The first product that we are building is the `Street` iOS app. Using `Street` y
 
 In the spirit of other projects in Blockchain space, we will make most of our contributions open source and available to everyone under MIT license. 
 
-Do subscribe to **`Street`** app for regular updates here - http://theicostreet.com
+Do subscribe to **`Street`** app for regular updates and support us here - http://theicostreet.com
+
+Those who wish to contribute to this cause reach out to our email listed in Organization
